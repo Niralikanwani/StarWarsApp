@@ -1,4 +1,4 @@
 # StarWarsApp
 
-To install 
-=> npm install
+To install :
+   npm install
