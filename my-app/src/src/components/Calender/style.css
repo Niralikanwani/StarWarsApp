@@ -107,7 +107,7 @@ header {
 	height: 4em;
 	cursor: pointer;
 	border-bottom: 1px solid #c7c7c7;
-	border-right: 1px solid #c7c7c7;
+/* 	border-right: 1px solid #c7c7c7; */
 }
 
 .calendar .body .cell .number {
